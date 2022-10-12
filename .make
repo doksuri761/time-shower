@@ -1,0 +1,1 @@
+pyinstaller --noconfirm --onefile --windowed --icon "L:/time-shower/clock.ico" --add-data "L:/time-shower/clock.jpg;."  "L:/time-shower/gui.py"
